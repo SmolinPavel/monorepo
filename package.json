@@ -8,6 +8,7 @@
     "packages/*"
   ],
   "devDependencies": {
+    "jest": "^24.7.1",
     "lerna": "^3.13.2"
   }
 }
