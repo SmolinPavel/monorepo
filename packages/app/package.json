@@ -1,0 +1,10 @@
+{
+  "name": "@monorepo/app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@monorepo/first": "^1.0.0",
+    "@monorepo/second": "^1.0.0"
+  }
+}
