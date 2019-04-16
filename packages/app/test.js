@@ -1,4 +1,4 @@
-const app = require('.');
+const { app } = require('.');
 
 describe('app', () => {
   it('should return correct message', () => {
