@@ -9,4 +9,6 @@ const main = () => {
   console.log(second());
 };
 
+main();
+
 module.exports = { app, main };
