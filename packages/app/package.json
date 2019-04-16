@@ -1,13 +1,13 @@
 {
   "name": "@monorepo/app",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": "../../node_modules/.bin/jest --colors"
   },
   "dependencies": {
-    "@monorepo/first": "^1.0.0",
-    "@monorepo/second": "^1.0.0"
+    "@monorepo/first": "^2.0.0",
+    "@monorepo/second": "^2.0.0"
   }
 }
