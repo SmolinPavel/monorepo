@@ -1,12 +1,17 @@
 {
   "name": "monorepo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "packages/app/index.js",
   "license": "MIT",
   "private": true,
+  "author": "SmolinPavel",
   "workspaces": [
     "packages/*"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SmolinPavel/monorepo.git"
+  },
   "scripts": {
     "test": "lerna run test --stream",
     "update:version": "lerna version --no-push"
