@@ -9,5 +9,5 @@ Created as an example to the post [Creating a monorepo using lerna & yarn worksp
 ```
 yarn
 yarn test
-yarn update:verion
+yarn update:version
 ```
