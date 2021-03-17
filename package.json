@@ -17,7 +17,7 @@
     "update:version": "lerna version --no-push"
   },
   "devDependencies": {
-    "jest": "^24.7.1",
+    "jest": "^26.6.3",
     "lerna": "^3.13.2"
   }
 }
