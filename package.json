@@ -14,6 +14,7 @@
   },
   "scripts": {
     "test": "lerna run test --stream",
+    "test:first": "yarn lerna run --scope @monorepo/first --stream test",
     "update:version": "lerna version --no-push"
   },
   "devDependencies": {
